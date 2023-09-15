@@ -51,7 +51,7 @@
 - [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 - [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 - [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
-- [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)*
+- [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)🤡
 - [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 - [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
 - [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
@@ -116,7 +116,7 @@
 #### 构造
 
 ###### 简单
-- [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)*
+- [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)🤡
 
 ###### 中等
 - [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
